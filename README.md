@@ -46,9 +46,15 @@ __NOTE:__ In the notebook, you will need to train CNNs in PyTorch.  If your CNN 
 
 If your code is taking too long to run, you will need to either reduce the complexity of your chosen CNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
 
-#### Amazon Web Services
+#### **Amazon Web Services**
 
 You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money, but enrolled students should see a coupon code in their student `resources`.)
+
+#### **Google Colab**
+You can also open the notebook in Google Colab, choose the GPU runtime and get started for FREE!
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/dog_app.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Evaluation
 
