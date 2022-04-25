@@ -52,7 +52,7 @@ You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money
 
 #### **Google Colab**
 You can also open the notebook in Google Colab, choose the GPU runtime and get started for FREE!
-<a href="https://github.com/reedemus/dog_breed_classifier/blob/master/dog_app.ipynb">
+<a href="http://colab.research.google.com/github/reedemus/dog_breed_classifier/blob/master/dog_app.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
